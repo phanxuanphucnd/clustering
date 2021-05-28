@@ -8,7 +8,7 @@
 
 ## <a name='introduction'></a> Lonia 
 
-Lonia is a library for clustering Text Document using PhoBERT.
+Lonia is a library for clustering Text Document using PhoBERT and ranking the document from config file.
 
 ## <a name='how_to_use'></a>
 
@@ -37,8 +37,8 @@ sample = """gdp Cùng trong ngày 10/1, 3 dự án đặc biệt quan trọng v�
 Theo Thủ tướng Nguyễn Xuân Phúc, với việc mở rộng, xây dựng thêm 2 tổ máy công suất 240 MW, nâng tổng công suất Nhà máy thủy điện Hòa Bình lên 2. 
 """
 
-# ax = clustering.predict(sample)
-# print(ax)
+ax = clustering.predict(sample)
+print(ax)
 
 
 from lonia.ranking import TFRanking

@@ -1,0 +1,107 @@
+MACRO_NEWS:
+  1:
+    keywords:
+      - gdp
+      - lạm phát
+      - fdi
+      - lãi suất
+      - thị trường mở
+      - omo
+      - NHTW
+      - ngân hàng trung ương
+      - bơm tiền
+      - chính sách tài khóa
+    name:
+      1st
+  2:
+    keywords:
+      - xuất nhập khẩu
+      - thặng dư
+      - thâm hụt thương mại
+      - chống bán phá giá
+      - chuyển giá
+    name:
+      2nd
+  3:
+    keywords:
+      - quy định
+      - luật mới
+      - dự thảo
+      - nghị định
+    name:
+      3rd
+  4:
+    keywords:
+      - đề xuất
+      - bộ ngành
+      - ngành
+    name:
+      4th
+  5:
+    keywords:
+      - lãnh đạo cấp cao
+      - thủ tướng
+      - bộ trưởng
+    name:
+      5th
+
+
+INTERNATIONAL_NEWS:
+  1:
+    keywords:
+      - mỹ 
+      - FED
+      - lãi suất
+      - NHTW Châu âu
+      - EU
+    name:
+      1st
+  2:
+    keywords:
+      - tỷ lệ thất nghiệp mỹ 
+      - tỷ lệ thất nghiệp trung quốc
+      - khu vực châu âu
+    name:
+      2nd
+  3:
+    keywords:
+      - chứng khoán mỹ
+      - châu á
+      - Dow jones
+      - Nasdad
+      - Hang Seng
+      - Shanghai
+      - Kospi
+    name:
+      3rd
+
+  4:
+    keywords:
+      - Bloomberdg
+    name:
+      4th
+
+
+VN_STOCK_MARKET:
+  1:
+    keywords:
+      - STB
+      - Ngân hàng Thương mại Cổ phần Sài Gòn Thương Tín
+      - VCB
+      - Ngân hàng TMCP Ngoại Thương Việt Nam
+      - BID
+    name:
+      1st
+  2:
+    keywords:
+      - bản tin thị trường
+      - giá cả thị trường
+      - bán ròng
+    name:
+      2nd
+  3:
+    keywords:
+      - tự doanh
+      - tự doanh CTCK
+    name:
+      3rd
