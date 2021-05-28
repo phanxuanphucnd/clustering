@@ -2,4 +2,4 @@
 
 ### Clustering
 
-- Clustering Text Document using RoBERTa.
+- Clustering Text Document using PhoBERT.
