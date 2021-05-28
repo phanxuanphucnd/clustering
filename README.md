@@ -6,9 +6,9 @@
     - [Example usage](#usage)
 
 
-## <a name='introduction'></a>
+## <a name='introduction'></a> Lonia 
 
-Clustering Text Document using RoBERTa.
+Lonia is a library for clustering Text Document using PhoBERT.
 
 ## <a name='how_to_use'></a>
 
